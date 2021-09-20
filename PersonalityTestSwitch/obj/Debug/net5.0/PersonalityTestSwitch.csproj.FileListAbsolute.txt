@@ -1,0 +1,16 @@
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.exe
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\ref\PersonalityTestSwitch.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\ref\PersonalityTestSwitch.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.genruntimeconfig.cache

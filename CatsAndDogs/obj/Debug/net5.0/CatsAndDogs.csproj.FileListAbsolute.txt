@@ -1,0 +1,15 @@
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.exe
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.genruntimeconfig.cache
